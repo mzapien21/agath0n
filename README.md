@@ -20,12 +20,13 @@ Winner of the [2025 AgAID Digital AgATH0N 2025](https://agaid.org/digital-agath0
 
 ## Team Members: The X-Men
 
--Darron Li
--Sairaghav Gubba
--Charles Liu
--Neal Wang
--Marcos Zapien
--Collin Bale
+Sairaghav Gubba,
+Charles Liu,
+Collin Bale,
+Neal Wang,
+Marcos Zapien,
+Darron Li
+
 
 ## Works Cited
 
